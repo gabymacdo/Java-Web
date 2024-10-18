@@ -1,12 +1,12 @@
 body{background-color: #CCCCCC;}
 
 h1,h2,h3{
-		font-family: Verdana, Tahoma;
+	font-family: Verdana, Tahoma;
 }
 section{
-		background-color: #FFFFFF;
-		font-family: Arial;
-		padding:10px; 
+	background-color: #FFFFFF;
+	font-family: Arial;
+	padding:10px; 
 }
 
 footer{
